@@ -1,0 +1,45 @@
+{
+  "name": "fm4-backend-api",
+  "version": "1.0.0",
+  "description": "FM4 Austria Radio Station Backend API - Historical broadcast data and music streaming service",
+  "main": "src/server.js",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "scrape": "node src/scripts/scrape-broadcasts.js",
+    "init-db": "node src/scripts/init-database.js",
+    "benchmark": "node src/scripts/benchmark-database.js",
+    "benchmark:api": "node src/scripts/benchmark-api.js",
+    "setup": "node -e \"console.log('Run: start.bat (Windows) | ./start.sh (Linux/Mac) | pwsh start.ps1 (PowerShell)')\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fm4",
+    "radio",
+    "austria",
+    "streaming",
+    "music",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@mongodb-js/zstd": "^2.0.1",
+    "axios": "^1.13.1",
+    "better-sqlite3": "^12.4.1",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "node-cron": "^4.2.1",
+    "sharp": "^0.34.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.18.3"
+  }
+}
